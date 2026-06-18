@@ -1,0 +1,11 @@
+# Raw datasets
+data/raw/*.csv
+
+# Processed datasets
+data/processed/*.csv
+
+# Interim datasets
+data/interim/*.csv
+
+# Virtual environment
+.venv/
