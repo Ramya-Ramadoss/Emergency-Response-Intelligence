@@ -140,6 +140,30 @@ The project answers several business questions, including:
 * Are there seasonal patterns in emergency calls?
 * Which locations require additional emergency resources?
 
+  ## 📊 Sample Visualizations
+
+### Emergency Category Distribution
+
+![Category Distribution](outputs/figures/category_distribution.png)
+
+---
+
+### Monthly Emergency Trend
+
+![Monthly Trend](outputs/figures/monthly_category_trend.png)
+
+---
+
+### Correlation Heatmap
+
+![Heatmap](outputs/figures/correlation_heatmap.png)
+
+---
+
+### Top ZIP Codes
+
+![ZIP Codes](outputs/figures/top_zipcodes.png)
+
 ---
 
 # ⚙️ Feature Engineering
