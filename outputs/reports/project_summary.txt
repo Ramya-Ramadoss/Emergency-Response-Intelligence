@@ -1,0 +1,8 @@
+Emergency Response Intelligence Project
+==================================================
+
+Total Records : 663282
+Total Features: 30
+Emergency Categories: 3
+Townships: 69
+ZIP Codes: 205
