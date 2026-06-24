@@ -15,11 +15,11 @@
 
 ## 📌 Project Overview
 
-Emergency response systems receive thousands of emergency calls every day. Understanding patterns in these calls enables emergency service providers to improve resource allocation, staffing, and operational planning.
+Emergency response systems receive thousands of emergency calls every day. Understanding patterns in these calls enables emergency service providers to improve resource allocation, staffing, and operational planning.This project demonstrates a complete **end-to-end data analytics workflow** using the Montgomery County 911 Emergency Calls dataset. Starting from raw data, the project applies professional data preparation techniques, performs exploratory data analysis, engineers new features, and generates actionable business insights.
+
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1a440ba8-5d51-4638-a4ec-fd1a499c14c3" />
 
-This project demonstrates a complete **end-to-end data analytics workflow** using the Montgomery County 911 Emergency Calls dataset. Starting from raw data, the project applies professional data preparation techniques, performs exploratory data analysis, engineers new features, and generates actionable business insights.
 
 ---
 
